@@ -1,0 +1,23 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "This is my backend assignment 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namann-14/BE-Assignment-1.git"
+  },
+  "author": "Naman Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Namann-14/BE-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/Namann-14/BE-Assignment-1#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
